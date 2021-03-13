@@ -3,11 +3,11 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...React
-- 🌱 I’m currently learning ...React
-- 👯 I’m looking to collaborate on ...React
+- 🔭 I’m currently working on ...Node Js
+- 🌱 I’m currently learning ... Node Js and Angular...
+- 👯 I’m looking to collaborate on ...Node Js
 - 🤔 I’m looking for help with ...AWS
 - 💬 Ask me about ...Anything
 - 📫 How to reach me: ...[Linked In](https://www.linkedin.com/in/simolee-patel-6a72971b1/)
-- ⚡ Fun fact: ...Programmer: A machine that turns coffee into code.
+- ⚡ Fun fact: ...Indian Programmer: A machine that turns Tea into code.
 -->
