@@ -3,8 +3,8 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...Node Js
-- 🌱 I’m currently learning ... Node Js and Angular...
+- 🔭 I’m currently working on ...Node Js and socket io
+- 🌱 I’m currently learning ... Node Js, Angular and socket io...
 - 👯 I’m looking to collaborate on ...Node Js
 - 🤔 I’m looking for help with ...AWS
 - 💬 Ask me about ...Anything
